@@ -8,7 +8,7 @@ public class Nomor5 {
         nama.add("k");
         nama.add("a");
         
-        System.out.println("Sebelum Remove");
+        System.out.println("Sebelum di-Remove");
         for(String x : nama){
             System.out.println(x);
         }
@@ -17,7 +17,7 @@ public class Nomor5 {
         nama.remove(3);
         nama.remove(2);
         
-        System.out.println("Setelah Remove");
+        System.out.println("Setelah di-Remove");
         for(String z : nama){
             System.out.println(z);
         }
